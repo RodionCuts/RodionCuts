@@ -102,5 +102,5 @@ Looking for remote opportunities. Specialized in creating dynamic and commercial
 ### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=RodionCuts&theme=dark" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=RodionCuts&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
