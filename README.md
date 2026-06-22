@@ -16,7 +16,7 @@
 
 Шукаю віддалену роботу. Спеціалізуюся на створенні динамічного та комерційного контенту: Reels, Shorts, довгих відео для YouTube та рекламних креативів. Маю досвід роботи з відомими брендами та інтеграції сучасних ШІ-технологій у відеопродакшн.
 
-🔥 **[ПЕРЕГЛЯНУТИ ПОРТФОЛІО НА GOOGLE DRIVE](https://drive.google.com/drive/folders/1KAx41QVAIGhte3kp7rx-2rmDTQ90JNgL?usp=sharing)**
+🔥 **[ПЕРЕГЛЯНУТИ ПОРТФОЛІО НА GOOGLE DRIVE](https://rodioncuts.github.io/)**
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### 💼 Досвід роботи
 
-**Відеомонтажер — Camotec** (6 місяців)  
+**Відеомонтажер — Camotec**  
 *Технологічний та тактичний одяг (відомий бренд)*
 * Створення відеоконтенту для sociaux мереж.
 * Монтаж оглядів товарів та рекламних креативів.
@@ -57,7 +57,7 @@
 
 Looking for remote opportunities. Specialized in creating dynamic and commercial content: Reels, Shorts, long-form YouTube videos, and ad creatives. Experienced in working with established brands and integrating modern AI tools into video production.
 
-🔥 **[VIEW PORTFOLIO ON GOOGLE DRIVE](https://drive.google.com/drive/folders/1KAx41QVAIGhte3kp7rx-2rmDTQ90JNgL?usp=sharing)**
+🔥 **[VIEW PORTFOLIO ON GOOGLE DRIVE](https://rodioncuts.github.io/)**
 
 ---
 
@@ -95,7 +95,7 @@ Looking for remote opportunities. Specialized in creating dynamic and commercial
 ### 📫 Contact Me
 
 * ✉️ **Email:** [kuchernukrodion@gmail.com](mailto:kuchernukrodion@gmail.com)
-* 💼 **Portfolio:** [Google Drive Link](https://drive.google.com/drive/folders/1KAx41QVAIGhte3kp7rx-2rmDTQ90JNgL?usp=sharing)
+* 💼 **Portfolio:** [Google Drive Link](https://rodioncuts.github.io/)
 
 ---
 
