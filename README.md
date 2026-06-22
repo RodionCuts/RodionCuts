@@ -16,7 +16,7 @@
 
 Шукаю віддалену роботу. Спеціалізуюся на створенні динамічного та комерційного контенту: Reels, Shorts, довгих відео для YouTube та рекламних креативів. Маю досвід роботи з відомими брендами та інтеграції сучасних ШІ-технологій у відеопродакшн.
 
-🔥 **[ПЕРЕГЛЯНУТИ ПОРТФОЛІО НА GOOGLE DRIVE](https://rodioncuts.github.io/)**
+🔥 **[ПЕРЕГЛЯНУТИ ПОРТФОЛІО НА MY WEBSITE](https://rodioncuts.github.io/)**
 
 ---
 
@@ -57,7 +57,7 @@
 
 Looking for remote opportunities. Specialized in creating dynamic and commercial content: Reels, Shorts, long-form YouTube videos, and ad creatives. Experienced in working with established brands and integrating modern AI tools into video production.
 
-🔥 **[VIEW PORTFOLIO ON GOOGLE DRIVE](https://rodioncuts.github.io/)**
+🔥 **[VIEW PORTFOLIO ON MY WEBSITE](https://rodioncuts.github.io/)**
 
 ---
 
@@ -73,7 +73,7 @@ Looking for remote opportunities. Specialized in creating dynamic and commercial
 
 ### 💼 Work Experience
 
-**Video Editor — Camotec** (6 months)  
+**Video Editor — Camotec**   
 *Tech & tactical clothing brand*
 * Created engaging video content for social media platforms.
 * Edited product reviews and high-converting ad creatives.
@@ -95,7 +95,7 @@ Looking for remote opportunities. Specialized in creating dynamic and commercial
 ### 📫 Contact Me
 
 * ✉️ **Email:** [kuchernukrodion@gmail.com](mailto:kuchernukrodion@gmail.com)
-* 💼 **Portfolio:** [Google Drive Link](https://rodioncuts.github.io/)
+* 💼 **Portfolio:** [My website](https://rodioncuts.github.io/)
 
 ---
 
