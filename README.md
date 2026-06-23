@@ -1,101 +1,112 @@
-<h1>
-  Hi there 👋, my name is Rodion
-</h1>
+<h1>Hi, I'm Rodion 👋</h1>
 
-<div> 
-  <img src="https://komarev.com/ghpvc/?username=RodionKipitok&style=flat-square&color=blue" alt="views counter"/>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=RodionCuts&style=flat-square&color=c8f135" alt="views counter"/>
 </div>
 
 <br>
 
 <details open>
-<summary><b>🇺🇦 Українська версія (Ukrainian)</b></summary>
+<summary><b>🇺🇦 Українська</b></summary>
 <br>
 
-## 🎬 Відеомонтажер & AI Відео Крейтор
+## 🎬 Відеомонтажер · Reels / TikTok / Shorts
 
-Шукаю віддалену роботу. Спеціалізуюся на створенні динамічного та комерційного контенту: Reels, Shorts, довгих відео для YouTube та рекламних креативів. Маю досвід роботи з відомими брендами та інтеграції сучасних ШІ-технологій у відеопродакшн.
+Монтую короткий контент для lifestyle-брендів і контент-мейкерів.
+**DaVinci Resolve Studio 20** · Тільки віддалено · Відкритий до нових клієнтів.
 
-🔥 **[ПЕРЕГЛЯНУТИ ПОРТФОЛІО НА MY WEBSITE](https://rodioncuts.github.io/)**
-
----
-
-### 🛠️ Навички та інструменти
-
-* **Софт для монтажу:** DaVinci Resolve Studio 20 (монтаж, кольорокорекція, робота зі звуком).
-* **Motion Graphics:** Створення анімованих плашок, іконок, динамічних акцентів.
-* **AI-Tools:** Генерація унікальних ефектів та футажів за допомогою Veo, Nanabanana, Grok.
-* **Sound Design:** Професійне очищення звуку, підбір музики та звукових ефектів (SFX).
-* **Субтитри:** Трендові, читабельні та авторські субтитри для утримання уваги.
+🌐 **[rodioncuts.github.io](https://rodioncuts.github.io)**
 
 ---
 
-### 💼 Досвід роботи
+### 🛠️ З чим працюю
 
-**Відеомонтажер — Camotec**  
-*Технологічний та тактичний одяг (відомий бренд)*
-* Створення відеоконтенту для sociaux мереж.
-* Монтаж оглядів товарів та рекламних креативів.
-* Безпосередній вплив на залучення аудиторії та підвищення продажів бренду.
+- **Монтаж:** DaVinci Resolve Studio 20 — cut, колір, звук
+- **Формати:** Reels, TikTok, Shorts (9:16), YouTube (16:9)
+- **Колір:** Базова корекція — експозиція, баланс білого, єдиний лук по всіх кліпах
+- **Звук:** Очищення, підбір музики, SFX
+- **Субтитри:** Чіткі, трендові, читабельні
+- **Motion graphics:** Анімовані текстові елементи та акценти (базовий рівень)
 
 ---
 
-### ⚡ Що ви отримуєте, працюючи зі мною
+### 💼 Досвід
 
-* **Професійна картинка:** Кінематографічний колір (робота в індустріальному стандарті DaVinci Resolve).
-* **Повний цикл «під ключ»:** Від очищення звуку та підбору B-roll до трендових субтитрів.
-* **Унікальний візуальний стиль:** Інтеграція сучасних AI-ефектів, що виділяють контент у стрічці.
-* **Гнучкість у роботі з кольором:** Базова корекція світла входить у всі проєкти, а художній кіностиль створюється при роботі з LOG/RAW матеріалами.
+**Відеомонтажер — Camotec** · 6 місяців · Фріланс
+*Технологічний та тактичний одяг (Україна)*
+- Монтаж рекламних відео та оглядів товарів для соціальних мереж
+- Здача готових Reels з відзнятого матеріалу клієнта
+
+---
+
+### ⚡ Що ви отримуєте
+
+- Монтаж під ключ: звук → нарізка → колір → субтитри → рендер
+- Reels до 60 сек — здача за 1–2 робочих дні
+- Базова кольорокорекція входить у кожен проєкт
+- Відповідаю в Telegram протягом години
+
+---
+
+### 📫 Контакти
+
+- 💬 Telegram: [@Radion_1273](https://t.me/Radion_1273)
+- ✉️ Email: kucernukrodion@gmail.com
+- 🌐 Портфоліо: [rodioncuts.github.io](https://rodioncuts.github.io)
 
 </details>
+
+---
 
 <details>
-<summary><b>🇺🇸 English Version</b></summary>
+<summary><b>🇺🇸 English</b></summary>
 <br>
 
-## 🎬 Video Editor & AI Video Creator
+## 🎬 Video Editor · Reels / TikTok / Shorts
 
-Looking for remote opportunities. Specialized in creating dynamic and commercial content: Reels, Shorts, long-form YouTube videos, and ad creatives. Experienced in working with established brands and integrating modern AI tools into video production.
+I edit short-form content for lifestyle brands and content creators.
+**DaVinci Resolve Studio 20** · Remote only · Open to new clients.
 
-🔥 **[VIEW PORTFOLIO ON MY WEBSITE](https://rodioncuts.github.io/)**
-
----
-
-### 🛠️ Skills & Tools
-
-* **Editing Software:** DaVinci Resolve Studio 20 (editing, color grading, sound design).
-* **Motion Graphics:** Animated lower thirds, icons, and dynamic graphic accents.
-* **AI Tools:** Generating unique effects and custom stock footage using Veo, Nanabanana, Grok.
-* **Sound Design:** Audio cleaning, music selection, and sound effects (SFX).
-* **Subtitles:** Trendy, highly readable, and custom captions for high retention.
+🌐 **[rodioncuts.github.io](https://rodioncuts.github.io)**
 
 ---
 
-### 💼 Work Experience
+### 🛠️ What I work with
 
-**Video Editor — Camotec**   
-*Tech & tactical clothing brand*
-* Created engaging video content for social media platforms.
-* Edited product reviews and high-converting ad creatives.
-* Directly contributed to audience engagement and brand sales growth.
+- **Editing:** DaVinci Resolve Studio 20 — cut, color, sound
+- **Formats:** Reels, TikTok, Shorts (9:16), YouTube (16:9)
+- **Color:** Basic correction — exposure, white balance, unified look across clips
+- **Sound:** Noise removal, music selection, SFX
+- **Subtitles:** Clean, readable, on-trend captions
+- **Motion graphics:** Animated text elements and accents (basics)
 
 ---
 
-### ⚡ What You Get by Working with Me
+### 💼 Experience
 
-* **Professional Visuals:** Cinematic color grading (industry standard DaVinci Resolve workflow).
-* **Full Turnkey Production:** From audio cleaning and B-roll selection to trendy subtitles.
-* **Unique Visual Style:** Integration of cutting-edge AI effects that stand out in the feed.
-* **Color Grading Flexibility:** Basic color correction (light & white balance) is included in all packages; stylized cinematic looks are available for LOG/RAW footage.
+**Video Editor — Camotec** · 6 months · Freelance
+*Tech & tactical clothing brand (Ukraine)*
+- Edited product reviews and ad creatives for social media
+- Delivered finished Reels from raw client footage
+
+---
+
+### ⚡ What you get
+
+- Full turnkey edit: sound → cut → color → subtitles → export
+- Reels under 60s delivered in 1–2 business days
+- Basic color correction included in every project
+- Reply on Telegram within 1 hour
+
+---
+
+### 📫 Contact
+
+- 💬 Telegram: [@Radion_1273](https://t.me/Radion_1273)
+- ✉️ Email: kucernukrodion@gmail.com
+- 🌐 Portfolio: [rodioncuts.github.io](https://rodioncuts.github.io)
 
 </details>
-
----
-
-### 📫 Contact Me
-
-* ✉️ **Email:** [kuchernukrodion@gmail.com](mailto:kuchernukrodion@gmail.com)
-* 💼 **Portfolio:** [My website](https://rodioncuts.github.io/)
 
 ---
 
@@ -104,3 +115,4 @@ Looking for remote opportunities. Specialized in creating dynamic and commercial
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RodionCuts&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
+
